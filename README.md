@@ -2,8 +2,7 @@
 # 💫 About Me:
 💫 About Me:<br>HannahAlkenbrack/README.md<br>👋 Hi, I’m Hannah Alkenbrack!<br>✨ Current Student | Future Full Stack Developer | Future Game Developer | ✨<br><br>🎓 About Me:<br>I’m a Computer Programming and Analysis student at SLC. Before joining the coding world, I earned honors degrees in Veterinary Assistant and Biotechnology, with 4 years of experience as a Research Assistant.<br><br>💻 My Skills & Tech Stack:<br>Languages:<br><br>HTML, CSS, JavaScript 🌐<br>C++, C# 🖥️<br>Python, Java 🐍☕<br>SQL, NoSQL (MongoDB) 🗃️<br>PHP 💻<br>Game Development:<br><br>Unity (C#) 🎮<br>2D & 3D Game Design 🧩<br>Web Development:<br><br>Vue.js 🌍<br>Node.js 🌐<br>Databases:<br><br>MySQL 🗄️<br>MongoDB 🔥<br>DevOps & Cloud:<br><br>Linux, PowerShell 🐧<br>Software & Tools:<br><br>Git, GitHub 🧑‍💻<br>Postman (API Testing) 📦<br>Figma 🎨<br>Computer Safety & Ethics:<br><br>Encryption & Cybersecurity 🔐<br>Ethical Hacking & Compliance 🛡️<br>🤝 Let’s Collaborate!<br>I’m always up for new challenges, and I love collaborating with fellow developers! If you’re looking for a programming partner, feel free to reach out!<br><br>📞 Contact Me:<br>Phone: 647-686-5275<br>Email: hannahalkenbrack@hotmail.ca<br>Student Email: HAlkenbrack11@student.sl.on.ca<br>Discord: Naevys<br>Linkdin: www.linkedin.com/in/hannah-alkenbrack-7a54a41bb<br>🌈 Fun Fact:<br>When I’m not coding, you can find me playing video games (I’m in a programmer-filled friend group AND dating a fellow programmer)! 🎮💻<br><br>Pronouns: she/her<br><br>Let’s create something amazing together! 💡👩‍💻
 
-![83b809857acd41a7bad4935b4734f9fc](https://github.com/user-attachments/assets/fc46e7ca-2070-4138-bcb1-4854bd32f042)
-
+![83b809857acd41a7bad4935b4734f9fc](https://github.com/user-attachments/assets/25c52308-82ad-41fa-a574-de069a246f2f)
 
 
 ## 🌐 Socials:
